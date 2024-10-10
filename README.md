@@ -1,4 +1,9 @@
+https://chatgpt.com/c/6708100b-76d0-8012-9251-e53e764af4d2 
+
 # TypeScript Data Modeling in Node.js
+
+
+
 
 A comprehensive guide to data modeling with TypeScript in the Node.js ecosystem. This repository walks you through the principles of data modeling, ORM usage, schema validation, handling relationships, migrations, and more. We will use popular tools like **TypeORM**, **Prisma**, and **Mongoose** for working with SQL and NoSQL databases.
 
